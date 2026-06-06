@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux" />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/Md_Ramzan_Ali/" target="_blank">
+    <img src="https://img.shields.io/badge/Check_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+</p>
+
 ---
 
 ### 📝 Description
@@ -21,8 +27,4 @@
 
 ---
 
-## 📊 Progress Tracker
-
-| 📅 Date | 🗂️ Platform | 🧩 Problem Name | 🟢 Difficulty | 💻 Solution |
-| :--- | :--- | :--- | :--- | :--- |
 <p align="center"><i>"Consistency is the key to unlocking mastery." 🚀</i></p>
