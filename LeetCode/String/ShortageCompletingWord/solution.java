@@ -1,4 +1,4 @@
-package ShortageCompletingWord;
+package String.ShortageCompletingWord;
 
 class Solution {
     public String shortestCompletingWord(String licensePlate, String[] words) {

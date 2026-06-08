@@ -1,4 +1,4 @@
-package PerfectNumber;
+package Math.PerfectNumber;
 // class Solution {
 //     public boolean checkPerfectNumber(int num) {
 //         int sum = 0;

@@ -1,6 +1,4 @@
-package leafSimilar;
-import java.util.ArrayList;
-import java.util.List;
+package Tree.leafSimilar;
 
 public class TreeNode {
     int val ;

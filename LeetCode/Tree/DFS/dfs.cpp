@@ -8,19 +8,21 @@ void dfs(int graph[max][max], int nodes, int startNode){
     bool isVisited[max] = {false};
     stack<int> st ;
     st.push(startNode);
+    isVisited[startNode] = true;
+
     while(!st.empty()){
         int currentNode = st.top();
         st.pop();
-        if(!isVisited[currentNode]){
-            cout<<currentNode<<"->";
-            isVisited[currentNode] = true;
-        }
-        for(int i = 0; i<= nodes-1; i++){
+        cout<<currentNode<<" ";
+
+        for(int i = nodes-1; i>=0; i--){
             if(graph[currentNode][i] == 1 && !isVisited[i]){
                 st.push(i);
+                isVisited[i] = true;
             }
         }
     }
+    cout <<"END" << endl;
 
 }
 int main(){

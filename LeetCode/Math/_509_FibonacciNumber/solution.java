@@ -1,4 +1,4 @@
-package _509_FibonacciNumber;
+package Math._509_FibonacciNumber;
 class Solution {
     public int fib(int n) {
         if (n <= 1) return n;
